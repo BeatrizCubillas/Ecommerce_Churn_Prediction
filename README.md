@@ -35,7 +35,7 @@ que cuenta la compañía.
 4.5 - Modelización
     - Regresión Logística
     - Árboles de decisión
-    - Ramdon Forest
+    - Random Forest
 4.6 - Evaluación y análisis de negocio
 
 5 Conclusiones
